@@ -30,15 +30,15 @@ If there are multiple remotes being used, you can add additional **remotes** thr
 
 # Glossary
 
-**-Branch**: allows one to develop features, fix bugs, or experiment with new ideas in a contained area of a repository.
--**Clone**: Allows a repository to be copied from GitHub to your computer to resolve merge conflicts, or add and remove files.
--**Commit**: Records changes to one or more files and directories. Similar to editing a file and saving it.
--**Fetch**: A command that retrieves new data and changes from a remote repository.
--**GIT**: A version control system of GitHub that allows developers to track changes in code, record a history of projects, and collaborate with others.
--**GitHub**: Web-based platform that assists developers collaborate on software projects.
--**Merge**: Combining changes from one branch to another branch. 
--**Merge Conflict**: When there is a disagreement between changes made in different branches that are being merged together.
--**Push**: The action of uploading your local Git commits and changes to a remote repository, for example to GitHub.
--**Pull**: The action of retrieving and incorporating changes from a remote repository into your local repository.
--**Remote**: A version of a Git repository that is hosted ona server or a remote hosting platoform.
--**Repository**: A central storage location for a collection of files, code, and version history related to a specific project or software application. 
+- **Branch**: allows one to develop features, fix bugs, or experiment with new ideas in a contained area of a repository.
+- **Clone**: Allows a repository to be copied from GitHub to your computer to resolve merge conflicts, or add and remove files.
+- **Commit**: Records changes to one or more files and directories. Similar to editing a file and saving it.
+- **Fetch**: A command that retrieves new data and changes from a remote repository.
+- **GIT**: A version control system of GitHub that allows developers to track changes in code, record a history of projects, and collaborate with others.
+- **GitHub**: Web-based platform that assists developers collaborate on software projects.
+- **Merge**: Combining changes from one branch to another branch.
+- **Merge Conflict**: When there is a disagreement between changes made in different branches that are being merged together.
+- **Push**: The action of uploading your local Git commits and changes to a remote repository, for example to GitHub.
+- **Pull**: The action of retrieving and incorporating changes from a remote repository into your local repository.
+- **Remote**: A version of a Git repository that is hosted ona server or a remote hosting platoform.
+- **Repository**: A central storage location for a collection of files, code, and version history related to a specific project or software application. 
