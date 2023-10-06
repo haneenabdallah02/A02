@@ -17,12 +17,13 @@
 14. You can **fetch** remote changes to update your local repository
 15. From 'Main,' you can **merge** changes and switch to the desired branch you want to merge into.
 16. If **merge conflicts** occur, they can be manually resolved by editing the file
-17. To clone a repository, open GitHub and navigate your chosen GitHub repository
-18. Click the "Code" button in green and copy the repository's URL
-19. Go back to WebStorm and paste the URL in the field requesting the URL for cloning
-20. Select the directory location and click '**Clone**'
-21. If there are multiple remotes being used, you can add additional **remotes** through Git commands.
-22. WebStorm can now be utilized to work with Git and GitHub
+17. A **pull** request can be used to request someone review the changes you made in your branch and consider merging them into another branch.
+18. To clone a repository, open GitHub and navigate your chosen GitHub repository
+19. Click the "Code" button in green and copy the repository's URL
+20. Go back to WebStorm and paste the URL in the field requesting the URL for cloning
+21. Select the directory location and click '**Clone**'
+22. If there are multiple remotes being used, you can add additional **remotes** through Git commands.
+23. WebStorm can now be utilized to work with Git and GitHub
 
 # References
 - Arthur Hendela "Intro to GitHub" https://njit.instructure.com/courses/30780/files/5214587?module_item_id=1138121
