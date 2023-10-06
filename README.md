@@ -1,9 +1,9 @@
 # A02
 # Git, WebStorm, and GitHub Step by Step Tutorial
 
-- Create a GitHub account and install GitHub and **GIT**. Download can be found here: https://git-scm.com/downloads
-- Create a JetBrains account here: https://www.jetbrains.com/
-- Obtain WebStorm license and install WebStorm through JetBrains. License options can be found here: https://www.jetbrains.com/webstorm/buy/#discounts
+1. Create a GitHub account and install GitHub and **GIT**. Download can be found here: https://git-scm.com/downloads
+2. Create a JetBrains account here: https://www.jetbrains.com/
+3. Obtain WebStorm license and install WebStorm through JetBrains. License options can be found here: https://www.jetbrains.com/webstorm/buy/#discounts
 1. In **GitHub**, create a **repository** by clicking the '+' at the top of the screen and select 'New repository.'
 2. Open WebStorm and create a new project
 6. Click 'VCS'
