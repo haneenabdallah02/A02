@@ -4,24 +4,25 @@
 1. Create a **GitHub** account and install GitHub and **GIT**. Download can be found here: https://git-scm.com/downloads
 2. Create a JetBrains account here: https://www.jetbrains.com/
 3. Obtain WebStorm license and install WebStorm through JetBrains. License options can be found here: https://www.jetbrains.com/webstorm/buy/#discounts
-4.  In GitHub, create a **repository** by clicking the '+' at the top of the screen and select 'New repository.'
-5.  Open WebStorm and create a new project
-6. Click 'VCS'
-7. Click 'Import into Version Control'
-8. Click 'Create Git Repository' and select 'OK'
-9. In WebStorm, a new **branch** can be created by opening your project and using the git branch command.
-10. Make any changes, then **commit** to changes by clicking 'VCS' then click 'Commit'
-11. Next, push change by clicking 'VCS' then click 'Git'
-12. Next, click '**Push**' to upload your commits and changes to GitHub
-13. You can **fetch** remote changes to update your local repository
-14. From 'Main,' you can **merge** changes and switch to the desired branch you want to merge into.
-15. If **merge conflicts** occur, they can be manually resolved by editing the file
-16. To clone a repository, open GitHub and navigate your chosen GitHub repository
-17. Click the "Code" button in green and copy the repository's URL
-18. Go back to WebStorm and paste the URL in the field requesting the URL for cloning
-19. Select the directory location and click '**Clone**'
-20. If there are multiple remotes being used, you can add additional **remotes** through Git commands.
-21. WebStorm can now be utilized to work with Git and GitHub
+4.  In GitHub, create a **repository** by clicking the '+' at the top of the screen.
+5.  Select 'New repository,' and name repository
+6.  Open WebStorm and create a new project
+7. Click 'VCS'
+8. Click 'Import into Version Control'
+9. Click 'Create Git Repository' and select 'OK'
+10. In WebStorm, a new **branch** can be created by opening your project and using the git branch command.
+11. Make any changes, then **commit** to changes by clicking 'VCS' then click 'Commit'
+12. Push change by clicking 'VCS' then click 'Git'
+13. Click '**Push**' to upload your commits and changes to GitHub
+14. You can **fetch** remote changes to update your local repository
+15. From 'Main,' you can **merge** changes and switch to the desired branch you want to merge into.
+16. If **merge conflicts** occur, they can be manually resolved by editing the file
+17. To clone a repository, open GitHub and navigate your chosen GitHub repository
+18. Click the "Code" button in green and copy the repository's URL
+19. Go back to WebStorm and paste the URL in the field requesting the URL for cloning
+20. Select the directory location and click '**Clone**'
+21. If there are multiple remotes being used, you can add additional **remotes** through Git commands.
+22. WebStorm can now be utilized to work with Git and GitHub
 
 # References
 - Arthur Hendela "Intro to GitHub" https://njit.instructure.com/courses/30780/files/5214587?module_item_id=1138121
