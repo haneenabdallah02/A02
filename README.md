@@ -30,7 +30,7 @@ If there are multiple remotes being used, you can add additional **remotes** thr
 
 # Glossary
 
--**Branch**: allows one to develop features, fix bugs, or experiment with new ideas in a contained area of a repository.
+**-Branch**: allows one to develop features, fix bugs, or experiment with new ideas in a contained area of a repository.
 -**Clone**: Allows a repository to be copied from GitHub to your computer to resolve merge conflicts, or add and remove files.
 -**Commit**: Records changes to one or more files and directories. Similar to editing a file and saving it.
 -**Fetch**: A command that retrieves new data and changes from a remote repository.
